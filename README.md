@@ -107,7 +107,7 @@ I take my work seriously, but not myself. With me, bugs are less like enemies an
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code" />
 </p>
 
-<sub>Where there's a will, there's a way.</sub>
+<sub>These are tools I have used while shipping projects—not a Pokédex I am trying to complete</sub>
 
 ### Away from the keyboard
 
@@ -116,6 +116,6 @@ You will probably find me playing **xiangqi**, on a **badminton** court, at the 
 ---
 
 <p align="center">
-  <em>Still learning. Still building. Still slaying bugs-one side quest at a time.</em>
+  <em>Where there's a will, there's a way.</em>
 </p>
 
