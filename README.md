@@ -116,6 +116,6 @@ You will probably find me playing **xiangqi**, on a **badminton** court, at the 
 ---
 
 <p align="center">
-  <em>Where there's a will, there's a way.</em>
+  <em>Where there's a will, there's a way</em>
 </p>
 
