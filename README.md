@@ -72,43 +72,6 @@ I take my work seriously, but not myself. With me, bugs are less like enemies an
   </tr>
 </table>
 
-### Toolbox
-
-<p><strong>Languages</strong></p>
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
-</p>
-
-<p><strong>Frameworks & runtime</strong></p>
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Express-444444?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-</p>
-
-<p><strong>Data, AI & tools</strong></p>
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/pgvector-7C3AED?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="pgvector" />
-  <img src="https://img.shields.io/badge/RAG-D97706?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code" />
-</p>
-
-<sub>These are tools I have used while shipping projects-not a Pokédex I am trying to complete</sub>
-
 ### Away from the keyboard
 
 You will probably find me playing **xiangqi**, on a **badminton** court, at the **gym**, or watching **football**. A little competition keeps the mind sharp; a little movement keeps the debugger sane.
