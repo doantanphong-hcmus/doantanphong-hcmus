@@ -32,8 +32,6 @@
 
 I'm a third-year Software Engineering student at the **University of Science, VNU-HCM (HCMUS)**, currently making my way toward game development.
 
-I take my work seriously, but not myself. With me, bugs are less like enemies and more like unexpected side quests.
-
 > **My long game:** to create a game where Vietnamese history is not merely a chapter to memorize, but a living world people can step into, struggle through, and remember.
 
 ### Current quest 🧭
