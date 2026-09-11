@@ -36,10 +36,9 @@ I'm a third-year Software Engineering student at the **University of Science, VN
 
 ### Current quest 🧭
 
+- Learning Game Programming through C# and Unity Engine
 - Learning to turn mechanics, systems, and stories into meaningful player experiences
 - Carrying what I learned from AI, data, testing, and full-stack products into game development
-- Learning and praticing the way AI agent work and trying to build one
-- Looking for good problems, honest feedback, and people who enjoy building things with care
 - Researching for AI knowledge
 
 ### Things I've built
