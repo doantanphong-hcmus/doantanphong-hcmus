@@ -38,7 +38,6 @@ I'm a third-year Software Engineering student at the **University of Science, VN
 
 - Learning Game Programming through C# and Unity Engine
 - Learning to turn mechanics, systems, and stories into meaningful player experiences
-- Carrying what I learned from AI, data, testing, and full-stack products into game development
 - Researching for AI knowledge
 
 ### Things I've built
